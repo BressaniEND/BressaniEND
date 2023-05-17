@@ -23,7 +23,7 @@
     <a href = "mailto: msbressani@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/matheus-soares-bressani/">
+    <a href = "https://www.linkedin.com/in/matheus-soares-bressani-a71754182/">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
